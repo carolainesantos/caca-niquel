@@ -1,2 +1,2 @@
 # caca-niquel 🎲🍀🍒
-Jogo desenvolvido em c++,  na aula de introdução a programação orientado pela profª. Claudia.
+Desenvolvimento de um jogo (caça-níquel) em c++,  na aula de introdução a programação orientado pela profª. Claudia.
